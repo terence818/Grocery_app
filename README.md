@@ -9,18 +9,21 @@
 - [Screenshoots](#screenshoots)
 
 ## Introduction
-Develop a hostel manage application to help user to submit hostel registration form and hostel damage report.
-College admin can organize the hostel information well by using this application.
+Develop a grocey app for user to buy/sell their fruits, vegetables and etc products.
 (react native + firebase)
 
 
 ## Features
 * User able to login/register (User & Warden) .
-* User able to view the form submitted from HomeScreen.
-* User able to add hostel registration form/damage form.
-* User able to edit profile.
-* Warden able to check the hostel report.
-* Warden able to check the damage report.
+* User able to view the products filter by categories in HomeScreen.
+* User able to add cart.
+* User able to edit profile,address and card information.
+* User able to collect the reward points after purchase.
+* User able to view their points in leaderboardscreen.
+* User able to check the delivery status of the purchased item.
+* User able to spin the wheel to earn the reward points after their check the final stage of delivery status.
+* Vendor able to add products.
+* Vendor able to edit profile.
 
 
 ## Requirements
